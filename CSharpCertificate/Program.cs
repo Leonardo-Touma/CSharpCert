@@ -98,8 +98,16 @@ namespace Page1_59
         •	 Anonymous types must have one or more read only properties.
         •	 Dynamic types are useful for interacting with COM, DOM and Dynamic APIs.
         •	 Value type can store null when it is declared as nullable “?”.
+        •	 Static types cannot be instantiated.
+        •	 Static types only have static members.
+        •	 Extension methods are only defined inside static class to extend the functionality of
+            an instance type.
+        •	 Special casting is required for explicit type conversion.
+        •	 as operator is used to cast a type into another type.
+        •	 User can write their definition for type conversion by using implicit and explicit
+            keyword with special static methods.
              */
-           
+
             Console.ReadKey();
         }
 
