@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page1_59", "CSharpCertifica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page59-89", "Page59-89\Page59-89.csproj", "{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge 1 Develop a Transformer", "Challenge 1 Develop a Transformer\Challenge 1 Develop a Transformer.csproj", "{DEE122F1-5CA4-4530-A089-8D8F82860E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceQuestion", "InterfaceQuestion\InterfaceQuestion.csproj", "{AC1CC867-1DDD-48ED-9349-5B76CB6EB0E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE122F1-5CA4-4530-A089-8D8F82860E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE122F1-5CA4-4530-A089-8D8F82860E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE122F1-5CA4-4530-A089-8D8F82860E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE122F1-5CA4-4530-A089-8D8F82860E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1CC867-1DDD-48ED-9349-5B76CB6EB0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1CC867-1DDD-48ED-9349-5B76CB6EB0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1CC867-1DDD-48ED-9349-5B76CB6EB0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1CC867-1DDD-48ED-9349-5B76CB6EB0E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
