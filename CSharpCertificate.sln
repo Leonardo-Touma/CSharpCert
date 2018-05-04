@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page1_59", "CSharpCertificate\Page1_59.csproj", "{A5F84B88-AE59-4C65-8A49-CB76C0CBDD26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page59-89", "Page59-89\Page59-89.csproj", "{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5F84B88-AE59-4C65-8A49-CB76C0CBDD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F84B88-AE59-4C65-8A49-CB76C0CBDD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F84B88-AE59-4C65-8A49-CB76C0CBDD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7EDFAC-AAF7-4734-8D36-89906EFFF97D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
