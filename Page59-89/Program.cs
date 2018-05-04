@@ -7,6 +7,32 @@ using System.Threading.Tasks;
 namespace Page59_89
 {
     /*
+     1. public abstract void Run(); declare abstract method without implementing its
+        definition.
+     2. public override void Run(); override the definition of Run method in derived
+        class “Bike”. Thus, when Run() method is called, the always derived method will
+        invoke.  
+     */
+    abstract class Vehicle
+    {
+        public abstract void Run();
+    }
+    class Car : Vehicle
+    {
+        public override void Run()
+        {
+            Console.WriteLine("Run Bike");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Vehicle vc = new Car();
+            vc.Run();
+        }
+    }
+    /*
      Interface
     Interface cannot be instantiated. Its members have no implementation detail. All implementation detail is
     defined by classes which implement (inherit) interfaces. Interface provides the highest level of abstraction.
@@ -115,10 +141,22 @@ namespace Page59_89
         }
     }
     */
-    class Program
+    class Program1
     {
         static void Main(string[] args)
         {
+            /*
+             Summary
+            •	 C# has five access specifiers, i.e., Public, Private, Protected, Internal, Internal
+            Protected.
+            •	 Properties and Indexers both are used to encapsulate data.
+            •	 Derived class can inherit all data from its base class, except one which is mentioned
+            with private access specifier.
+            •	 C# doesn’t allow multiple inheritance, but it allows multi-level inheritance.
+            •	 A class must implement all members of an interface and all abstract methods of an
+            abstract class.
+            •	 Abstract method can only be written inside of an abstract class.
+             */
             Console.ReadKey();
         }
     }
