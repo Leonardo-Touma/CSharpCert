@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Page59_89
+namespace Page_95_150
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
         }
     }
 }
