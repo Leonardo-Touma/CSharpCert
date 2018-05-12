@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BoxingUnBoxing.cs" />
+    <Compile Include="Collections.cs" />
+    <Compile Include="Collections_Concurrent.cs" />
+    <Compile Include="Collections_Generics.cs" />
+    <Compile Include="Generics_Classes.cs" />
+    <Compile Include="Generics_Methods.cs" />
+    <Compile Include="Interfaces_Frameworks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

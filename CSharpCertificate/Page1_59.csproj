@@ -42,8 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Explicit_Implicit_Convertsion.cs" />
+    <Compile Include="ExstensionClass.cs" />
+    <Compile Include="IsAsOperators.cs" />
+    <Compile Include="Nullable_Dynamic_Annonymus_Types.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuestionMarkOperator.cs" />
+    <Compile Include="StaticConstructurs_Helper_Metods.cs" />
+    <Compile Include="Summary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
