@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22D3CDB6-2A55-4FC9-A296-71B9A624C7DA}</ProjectGuid>
+    <ProjectGuid>{AFA40F09-0604-45CB-A5EC-809FD7CDA78D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Page_95_150</RootNamespace>
-    <AssemblyName>Page 95_150</AssemblyName>
+    <RootNamespace>CustomGenericCollection</RootNamespace>
+    <AssemblyName>CustomGenericCollection</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,14 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BoxingUnBoxing.cs" />
-    <Compile Include="Collections.cs" />
-    <Compile Include="Collections_Concurrent.cs" />
-    <Compile Include="Collections_Generics.cs" />
-    <Compile Include="Generics_Classes.cs" />
-    <Compile Include="Generics_Methods.cs" />
-    <Compile Include="IEnumeratorTValueAndNoneTValue.cs" />
-    <Compile Include="Interfaces_Frameworks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
