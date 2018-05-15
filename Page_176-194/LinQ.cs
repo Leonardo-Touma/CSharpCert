@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _153___174
+namespace Page_176_194
 {
-    class Program
+    class LinQ
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

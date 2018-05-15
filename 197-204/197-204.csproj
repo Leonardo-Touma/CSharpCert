@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB3BC594-3F8E-4DA2-99BC-12B21C5D9744}</ProjectGuid>
+    <ProjectGuid>{B723AFB0-5ADD-451D-9285-B7985975AACF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_153___194</RootNamespace>
-    <AssemblyName>153 - 194</AssemblyName>
+    <RootNamespace>_197_204</RootNamespace>
+    <AssemblyName>_197_204</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Delegates.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
