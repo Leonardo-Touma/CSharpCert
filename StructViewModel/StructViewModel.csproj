@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B723AFB0-5ADD-451D-9285-B7985975AACF}</ProjectGuid>
+    <ProjectGuid>{310C1D6E-07F8-4C8F-B4B1-FDCE19AAD7AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_197_204</RootNamespace>
-    <AssemblyName>197-204</AssemblyName>
+    <RootNamespace>StructViewModel</RootNamespace>
+    <AssemblyName>StructViewModel</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
