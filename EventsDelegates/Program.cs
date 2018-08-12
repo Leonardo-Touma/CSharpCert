@@ -12,6 +12,7 @@ namespace EventsDelegates
         {
             var ownTest = new OwnTestOfDelegatesAndEvents();
             ownTest.Start();
+
             //Events = mechanism between objects
             var video = new video() { Title = "Video 1" };
 

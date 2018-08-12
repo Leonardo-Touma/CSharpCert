@@ -19,6 +19,7 @@ namespace EventsDelegates
 
         public void Encode(video video)
         {
+            //Use inparameter
             Console.WriteLine("Encoding video...!");
             Thread.Sleep(3000);
             OnVideoEncoded();

@@ -16,11 +16,11 @@ namespace EventsDelegates
 
             var soundService = new soundServices();
 
-            var soundencoder = new SoundEncoder();
+            var soundEncoder = new SoundEncoder();
 
 
-            soundencoder.soundEncoded += soundService.OnSoundEncoder;
-            soundencoder.encode(sound);
+            soundEncoder.soundEncoded += soundService.OnSoundEncoder;
+            soundEncoder.encode(sound);
         }
     }
     public class Sound
